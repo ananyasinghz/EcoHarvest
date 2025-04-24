@@ -1,4 +1,4 @@
-<h1> Food Waste Reduction Platform </h1>
+<h1>ECOHARVEST </h1>
 
 <h2>Summary</h2>
 This project involves the development of a Food Waste Reduction Platform, built using modern web technologies, with features such as:
@@ -115,7 +115,6 @@ Our database shall have 6 tables
   <li>Palak Ramani</li>
 </ul>
 
-High Level Design : 
-https://docs.google.com/document/d/1SkjawkOkLsN35J8bnhqSzhr_HtTyTBvO67HUS49Nnhg/edit?usp=sharing
+[Click here to watch the demo](./ecoharvest.mp4)
 
 
