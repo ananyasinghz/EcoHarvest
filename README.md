@@ -1,5 +1,7 @@
 <h1>ECOHARVEST </h1>
 
+[Click here to watch the demo](./ecoharvest.mp4)
+
 <h2>Summary</h2>
 This project involves the development of a Food Waste Reduction Platform, built using modern web technologies, with features such as:
 
@@ -39,7 +41,7 @@ The Food Waste Reduction Platform is an innovative web-based solution aimed at a
 
 <h2>Application Architecture</h2>
 
-![Food Waste Reduction Platform](README/Diagram02.jpg)
+
 
 <h3>Front-end (Presentation Layer)</h3>
 The front-end of the FWRP comprises JSP (JavaServer Pages) for dynamic web page generation and user interaction.
@@ -64,8 +66,6 @@ Servlets interact with the database using JDBC (Java Database Connectivity), exe
 
 <h2>Business Architecture</h2>
 
-![Food Waste Reduction Platform](README/Diagram01.jpg)
-
 Registration:
 <ol>
   <li><strong>Retailers:</strong> Retailers play a crucial role in our platform by managing surplus food items. They have the ability to add new items, update quantities, set expiration dates, and specify whether the items are available for donation or sale at a reduced price. Additionally, retailers can easily flag surplus food items that are nearing expiration or are in excess of demand. Once flagged, these surplus items can be promptly listed on the platform for donation or sale.</li>
@@ -75,7 +75,6 @@ Registration:
 
 <h3>Database Structure</h3>
 
-![Food Waste Reduction Platform](README/Diagram03.jpg)
 
 Our database shall have 6 tables
 <ol>
@@ -97,7 +96,6 @@ Our database shall have 6 tables
 
 <h2>Deployment Architecture</h2>
 
-![Food Waste Reduction Platform](README/Diagram04.jpg)
 
 <ul>
   <li>Laptop with Java: A device running a Java application.</li>
@@ -115,6 +113,5 @@ Our database shall have 6 tables
   <li>Palak Ramani</li>
 </ul>
 
-[Click here to watch the demo](./ecoharvest.mp4)
 
 
